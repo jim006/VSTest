@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 
-
+/* Main Function */
 int _tmain(int argc, _TCHAR* argv[])
 {
 	return 0;
