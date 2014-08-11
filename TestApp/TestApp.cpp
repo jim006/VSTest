@@ -4,6 +4,7 @@
 #include "stdafx.h"
 
 /* Testing Zen and Rally connections -- Try #1 */
+/* Testing Zen connection -- Try #2 */
 
 /* Main Function */
 int _tmain(int argc, _TCHAR* argv[])
